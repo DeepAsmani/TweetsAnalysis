@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "198658613588",
+    "project_id": "sentiment-analysis-db22a",
+    "storage_bucket": "sentiment-analysis-db22a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198658613588:android:55af7ee9986ca548abe8c1",
+        "android_client_info": {
+          "package_name": "com.sentiment.sentiment_analysis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198658613588-bjkqo5osnr56prr86o5a0jr0k0ofcaui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVqGbj3zZ4P0CfGl83txg9t1CD91BTfVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198658613588-bjkqo5osnr56prr86o5a0jr0k0ofcaui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198658613588:android:e366ab6bb665dab1abe8c1",
+        "android_client_info": {
+          "package_name": "com.tweets.tweetsanalysis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198658613588-bjkqo5osnr56prr86o5a0jr0k0ofcaui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVqGbj3zZ4P0CfGl83txg9t1CD91BTfVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198658613588-bjkqo5osnr56prr86o5a0jr0k0ofcaui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tweets Analysis</string>
+    <string name="your_string_here">Select a topic<u>underline</u>.</string>
+    <string name="register"><u><b>Select a topic</b></u></string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="here_s_nyour_first_nstep_with_nus">Here’s\nyour first\nstep with \nus!</string>
+    <string name="registerpage">Register</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="com_password">Confirm Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="use_other_methods">Use other Methods</string>
+    <string name="already_nhave_an_naccount">Already \nhave an \nAccount?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_now">New user? Register Now</string>
+    <string name="todo">TODO</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="search_hashtag">Search Hashtag</string>
+    <string name="analyze">Analyze</string>
+    <string name="perv">Perv</string>
+</resources>
