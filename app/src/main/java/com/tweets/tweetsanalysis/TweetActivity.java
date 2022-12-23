@@ -28,10 +28,10 @@ import twitter4j.conf.ConfigurationBuilder;
 
 public class TweetActivity extends Activity implements View.OnClickListener {
 
-    private static final String TWITTER_KEY = "eR41ZAvOn9gpV6KGe0DgnXzgr"; // Use your twitter Consumer Key
-    private static final String TWITTER_SECRET = "vVaAZhZ690t5SKYplIz3cvnqE8gkrvtq93U5HfR8bcuAA5rnRl"; // Use your twitter Secret Key
-    private static final String Access_Token = "1476911161857789952-cPOV309VEt4CVQ9YLFlk5CibS0jHEk";
-    private static final String Access_Token_Secret = "typtcXQLvmQIm3miKXuHyNb9a2jP1ATGleKGutCo4lL5s";
+    private static final String TWITTER_KEY = ""; // Use your twitter Consumer Key
+    private static final String TWITTER_SECRET = ""; // Use your twitter Secret Key
+    private static final String Access_Token = "";
+    private static final String Access_Token_Secret = "";
     private ListView SearchList;
     private Button button;
     private String fetchChoice;
